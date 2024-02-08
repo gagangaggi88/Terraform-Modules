@@ -1,0 +1,1 @@
+bucket = ["kulbuckt", "amitbucet", "gaggibucket"]
